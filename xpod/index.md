@@ -8,7 +8,7 @@ Moving forward, we understand that this page will be replaced as teams put their
 
 | Component Name | Unit Cost | Quantity | Description | part number | order link | datasheet link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Arduino Uno R4 Wifi` | $34.00 USD | 1 | embedded microcontroller system board | ABX00087 | [Arduino store](https://store.arduino.cc/products/uno-r4-wifi) | [PDF](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf) |
-|  |  |  |  |  |  |  |
-
+|  `4pc Waterproof Servo 40Kg Metal Gear Digital Servo`|  40~50 USD| 5 | High torque servos | 4xDS3240-180 |  [AliExpress](https://www.aliexpress.us/item/3256806709778108.html?spm=a2g0o.order_list.order_list_main.5.21ef1802ZqeYkU&gatewayAdapt=glo2usa)| [Website Description](https://www.aliexpress.us/item/3256806709778108.html?spm=a2g0o.order_list.order_list_main.5.21ef1802ZqeYkU&gatewayAdapt=glo2usa#nav-description)|
+|` MEGA 2560 R3 Board`| 22.99 USD | 1 | embedded microcontroller system board with more pins |  EL-CB-003 | [Amazon](https://a.co/d/03FW3LrR) | [PDF](https://m.media-amazon.com/images/I/91RAy+evkrL.pdf) |
+|`Keyestudio MEGA Sensor Shield V1`| 8.99 USD | 1 | Interface between MEGA and many sensors | Ks0006 | [Amazon](https://a.co/d/0cmsuQFy) | [PDF](https://docs.keyestudio.com/projects/KS0006/en/latest/docs/Ks0006%20Keyestudio%20MEGA%20Sensor%20Shield%20V1.html) |
 ---
